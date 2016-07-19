@@ -1,4 +1,4 @@
-package discrete;
+package programs.dis.opt;
 
 public class KnapSackProblem {
 	// 16x1 +19x2 +23x3 +28x4

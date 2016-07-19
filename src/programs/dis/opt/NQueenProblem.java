@@ -1,4 +1,8 @@
-package discrete;
+package programs.dis.opt;
+
+/**
+ * NQueens to be placed in NxN chessBoard So that no one can point each other
+ */
 
 public class NQueenProblem {
 	public static void main(String[] args) {

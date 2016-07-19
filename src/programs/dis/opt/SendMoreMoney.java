@@ -1,4 +1,5 @@
-package discrete;
+package programs.dis.opt;
+
 
 public class SendMoreMoney {
 
